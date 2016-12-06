@@ -1,2 +1,1 @@
-"# kmeans" 
-"# HackerRank-with-Kevin" 
+K means clustering algorithm
